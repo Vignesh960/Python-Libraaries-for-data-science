@@ -1,1 +1,1 @@
-# Python-Libruaries-for-data-science
+# Python-Libraries-for-data-science
